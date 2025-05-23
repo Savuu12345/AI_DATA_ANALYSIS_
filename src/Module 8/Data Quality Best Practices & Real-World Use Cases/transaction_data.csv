@@ -1,0 +1,11 @@
+Transaction_ID,Date,Amount,Merchant,Account_ID,Transaction_Type
+1,2025-04-01,100,Merchant_A,ACC123,Debit
+2,2025-04-02,200,Merchant_B,ACC124,Credit
+3,2025-04-03,150,Merchant_C,ACC125,Debit
+4,2025-04-04,300,Merchant_A,ACC123,Credit
+5,2025-04-05,100,Merchant_D,ACC126,Debit
+6,2025-04-06,250,Merchant_B,ACC124,Credit
+7,2025-04-07,150,Merchant_C,ACC127,Debit
+8,2025-04-08,200,Merchant_A,ACC123,Credit
+9,2025-04-09,100,Merchant_E,ACC128,Debit
+10,2025-04-10,300,Merchant_A,ACC123,Debit
